@@ -7,7 +7,7 @@ package bagian1.array;
  *
  * @author weixi
  */
-public class LatihanMandiri {
+public class LatihanMandiriArray {
     public static void main(String[] args) {
         
 //1. Buat array berisi 6 suhu harian (bertipe double). Tampilkan suhu tertinggi dan
