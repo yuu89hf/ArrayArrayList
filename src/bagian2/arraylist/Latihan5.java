@@ -6,7 +6,7 @@ package bagian2.arraylist;
 import java.util.ArrayList;
 /**
  *
- * @author weixi
+ * @author weixi:
  */
 public class Latihan5 {
     public static void main(String[] args) {
