@@ -6,7 +6,7 @@ package bagian1.array;
 
 /**
  *
- * @author weixi
+ * @author weixi:
  */
 public class Latihan2 {
     public static void main(String[] args) {
